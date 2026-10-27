@@ -1,0 +1,5 @@
+node_modules/
+neet_schedule.db
+neet_schedule.db-journal
+.DS_Store
+Thumbs.db
